@@ -1,0 +1,12 @@
+.button {
+    background-color: #1db954; /* Spotify green */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #1ed760;
+}
